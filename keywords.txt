@@ -1,0 +1,3 @@
+kirimData KEYWORD1
+getData KEYWORD2
+farmiotKonfig KEYWORD3
